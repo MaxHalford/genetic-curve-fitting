@@ -34,10 +34,8 @@ for g in range(generations):
     # Enhance the population
     polynomials.enhance(lookupTable)
     # Display the improvement
-    polynomials.plot2D(df['X'], df[function], g)
+    #polynomials.plot2D(df['X'], df[function], g)
     #savefig('gif/{0}'.format(g))
 
 # Display the final best polynomial
-
-
-
+polynomials.plot2D(df['X'], df[function], g)

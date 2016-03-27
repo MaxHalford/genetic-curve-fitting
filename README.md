@@ -4,4 +4,4 @@ The objective of this project was to build a genetic algorithm that would find t
 
 ![Example](example.png)
 
-I don't explain the whole project here, instead I wrote an [IPython notebook](http://maxhalford.com/resources/notebooks/genetic-algorithms) on genetic algorithms and more specifically this problem.
+I don't explain the whole project here, instead I wrote an [introductory blog post](http://maxhalford.com/2015/08/02/genetic-algorithms-introduction.html) on genetic algorithms and more specifically the curve fitting problem.
